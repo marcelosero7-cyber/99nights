@@ -1,4 +1,20 @@
 -- for my skids no obsufacte no api key maybe soon?
+local message = "more script keyless here https://discord.gg/g7bKSXk8"
+
+pcall(function()
+    setclipboard(message)
+end)
+
+pcall(function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Clipboard";
+        Text = "(Free ranks in discord for 100 first) more scripts steal a brainrot,gag and more keyless here!";
+        Duration = 5;
+    })
+end)
+
+
+
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local UserInputService = game:GetService("UserInputService")
