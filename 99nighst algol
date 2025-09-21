@@ -1,5 +1,5 @@
 -- for my skids no obsufacte no api key maybe soon?
-local message = "more script keyless here https://discord.gg/gNSuMDGP"
+local message = "more script keyless here https://discord.gg/9X4AZQXQ"
 
 pcall(function()
     setclipboard(message)
